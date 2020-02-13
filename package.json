@@ -1,0 +1,26 @@
+{
+  "name": "insta-news",
+  "version": "1.0.0",
+  "description": "\"Insta New\"",
+  "main": "index.js",
+  "scripts": {
+    "mygit": "git status; git add -A; git status;",
+    "test": "ls -l"
+  },
+  "author": "\"Jade\",",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.8.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.2.0",
+    "pretty-error": "^2.1.1"
+  },
+  "dependencies": {
+    "gulp-eslint": "^6.0.0"
+  }
+}
